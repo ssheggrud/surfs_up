@@ -8,9 +8,11 @@ The analysis of weather data is to see if a Surf and Shake shop in Hawaii would 
 # Results
 
 The first look at June tells us that there were 1700 measurements taken and the highest temperature recorded was 85, the lowest was 64, with the average being 74.9. The temperature deviation is 3.26 (rounded up). A low deviation like this tells us that the temperatures tend to be close to the mean/average.
+
 ![June Temperate Statistics](https://github.com/ssheggrud/surfs_up/blob/77e5e863d136072d51f2424009ea3d920b162a73/Resources/june_temps.png)
 
 Moving to the December data, we can see that 1517 measurements taken, giving us a slightly smaller dataset (roughly 11% smaller) to work with. The high was 83 and the low was 56, with an average of 71.
+
 ![December Temperate Statistics](https://github.com/ssheggrud/surfs_up/blob/77e5e863d136072d51f2424009ea3d920b162a73/Resources/dec_temps.png)
 
 Looking at the data I can draw three conclusions:
