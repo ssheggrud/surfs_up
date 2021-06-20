@@ -7,6 +7,6 @@ The analysis of weather data is to see if a Surf and Shake shop in Hawaii would 
 
 # Results
 
-![June Temperate Statistics][https://github.com/ssheggrud/surfs_up/blob/77e5e863d136072d51f2424009ea3d920b162a73/Resources/june_temps.png]
+![June Temperate Statistics](https://github.com/ssheggrud/surfs_up/blob/77e5e863d136072d51f2424009ea3d920b162a73/Resources/june_temps.png)
 
-![December Temperate Statistics][https://github.com/ssheggrud/surfs_up/blob/77e5e863d136072d51f2424009ea3d920b162a73/Resources/dec_temps.png]
+![December Temperate Statistics](https://github.com/ssheggrud/surfs_up/blob/77e5e863d136072d51f2424009ea3d920b162a73/Resources/dec_temps.png)
